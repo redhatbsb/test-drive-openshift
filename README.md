@@ -16,14 +16,13 @@ Este trabalho está licenciado sob a [**Licença Atribuição-NãoComercial-Comp
 
 **Se você tiver interesse de participar de um workshop com o time Red Hat Brasil, entre em contato com o seu time de contas/parceiro!**
 
-
 ## Observação
 
 **Para o S2I com o Quarkus** funcionar importar o template template-openjdk11-rhel8-s2i.yaml para o namespace **openshift**. Após isso importar também a secret para a service account default em cada projeto para fazer pulling da imagem do **registry.redhat.io**.
 
 ## Etherpad
 
-To install etherpad on Openshift go to https://github.com/luszczynski/openshift-etherpad for instructions
+To install etherpad on Openshift go to [https://github.com/luszczynski/openshift-etherpad](https://github.com/luszczynski/openshift-etherpad) for instructions
 
 ## Terminal
 
@@ -281,3 +280,4 @@ oc new-app quay.io/osevg/workshopper --name=workshopper \
 
 oc expose svc/workshopper -n workshopper
 ```
+

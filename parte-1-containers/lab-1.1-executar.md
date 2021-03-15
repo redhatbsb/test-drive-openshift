@@ -1,4 +1,4 @@
-# Lab 1.1 - Executar
+# 1.2 - Docker parte 1
 
 ## Lab 1.1 - Objetivos
 

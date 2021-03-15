@@ -1,4 +1,4 @@
-# Lab 1.2 - Operar
+# 1.3 - Docker parte 2
 
 ## Lab 1.2 - Objetivos
 

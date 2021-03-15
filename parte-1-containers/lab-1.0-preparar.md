@@ -1,4 +1,4 @@
-# Lab 1.0 - Preparar
+# 1.1 - Setup do ambiente
 
 ## Lab 1.0 - Objetivos
 
